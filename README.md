@@ -14,7 +14,7 @@ My scientific work spans a broad multidisciplinary spectrum, including:
 - animal breeding and selection (zooengineering)  
 - zoopsychology    
 - metaphysics and philosophical analysis
-- constructive AI reasoning methodology analyst   
+- constructive analyst of AI reasoning methodologies    
 - informatics and the development of audiovisual dictionary‑encyclopedic content  
 
 This wide-ranging perspective allows me to explore the intersections between biological, cultural, linguistic, and technological evolution.
