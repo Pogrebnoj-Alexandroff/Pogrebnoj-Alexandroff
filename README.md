@@ -9,7 +9,7 @@
 My scientific work spans a broad multidisciplinary spectrum, including:
 
 ### Life Sciences
-* biology, human physiology, animal breeding and selection (animal science)
+* biology, human physiology, animal breeding and selection (animal science / zooengineering)
 
 ### Social & Behavioral Sciences
 * psychology, sociology, sexology, zoopsychology
