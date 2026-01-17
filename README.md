@@ -10,7 +10,7 @@ My scientific work spans a broad multidisciplinary spectrum, including:
 - anthropology, history of antiquity, and human evolution
 - prehistoric pre-fire (доогненные) technologies of early Homo, including non‑thermal food processing, toolmaking, and proto‑cultural behaviors described in my research
 - archaeolinguistics, etymology, and prehistoric Proto‑Indo‑European communication  
-- genetics  
+- popular genetics  
 - animal breeding and selection (zooengineering)  
 - zoopsychology    
 - metaphysics and philosophical analysis  
