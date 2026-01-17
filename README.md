@@ -13,7 +13,8 @@ My scientific work spans a broad multidisciplinary spectrum, including:
 - popular genetics  
 - animal breeding and selection (zooengineering)  
 - zoopsychology    
-- metaphysics and philosophical analysis  
+- metaphysics and philosophical analysis
+- constructive proposals and methodological clarifications submitted to AI developers to improve reasoning quality  
 - informatics and the development of audiovisual dictionary‑encyclopedic content  
 
 This wide-ranging perspective allows me to explore the intersections between biological, cultural, linguistic, and technological evolution.
