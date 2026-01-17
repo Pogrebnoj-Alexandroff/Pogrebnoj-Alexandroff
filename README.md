@@ -5,17 +5,13 @@
 
 My scientific work spans a broad multidisciplinary spectrum, including:
 
-- biology and human physiology  
-- psychology, sociology, and sexology  
-- anthropology, history of antiquity, and human evolution
-- prehistoric pre-fire (доогненные) technologies of early Homo, including non‑thermal food processing, toolmaking, and proto‑cultural behaviors described in my research
-- archaeolinguistics, etymology, and prehistoric Proto‑Indo‑European communication  
-- popular genetics  
-- animal breeding and selection (zooengineering)  
-- zoopsychology    
-- metaphysics and philosophical analysis
-- constructive analyst of AI reasoning methodologies    
-- informatics and the development of audiovisual dictionary‑encyclopedic content  
+- Life Sciences: Biology, human physiology, animal breeding, and selection (Animal Science).
+- Social & Behavioral Sciences: Psychology, sociology, sexology, and zoopsychology.
+- Evolutionary Studies: Anthropology, ancient history, and human evolution.
+- Prehistoric Technologies: Early Homo pre-fire (non-pyrotechnic) technologies, including non-thermal food processing, toolmaking, and proto-cultural behaviors.
+- Linguistics: Archaeolinguistics, etymology, and prehistoric Proto-Indo-European communication.
+- Computational Science: Analysis of AI reasoning methodologies, informatics, and the development of audiovisual encyclopedic content.
+- Philosophy: Metaphysics and philosophical analysis.  
 
 This wide-ranging perspective allows me to explore the intersections between biological, cultural, linguistic, and technological evolution.
 
@@ -39,8 +35,7 @@ In 2025, Figshare applied access restrictions to several items, including
 materials with assigned DOIs, despite the fact that these works were originally  
 published under open licenses (CC BY 4.0).
 
-These access restrictions were applied unilaterally by Figshare and were not  
-related to any violations on my part. As a result, several DOI landing pages  
+These access restrictions were applied unilaterally by Figshare and were independent of my compliance with platform guidelines. As a result, several DOI landing pages  
 now lead to inaccessible or empty pages.
 
 To ensure long-term accessibility and compliance with FAIR principles, I have  
