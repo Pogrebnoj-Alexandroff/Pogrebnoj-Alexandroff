@@ -31,7 +31,7 @@ In addition to scientific research, I also work in literary genres, including:
 ## DOI Accessibility Notice
 
 Some of my earlier research outputs were originally deposited on Figshare.  
-In 2024–2025, Figshare applied access restrictions to several items, including  
+In 2025, Figshare applied access restrictions to several items, including  
 materials with assigned DOIs, despite the fact that these works were originally  
 published under open licenses (CC BY 4.0).
 
