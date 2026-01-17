@@ -19,7 +19,7 @@ This wide-ranging perspective allows me to explore the intersections between bio
 
 ## Literary Work
 
-In addition to scientific research, I also work in literary genres, including:
+In addition to scientific research, I contribute to various literary genres:
 
 - poetry  
 - satirical pamphlets  
