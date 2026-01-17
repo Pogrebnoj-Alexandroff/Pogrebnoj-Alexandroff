@@ -1,25 +1,37 @@
 # Aleksey Pogrebnoj-Alexandroff
 ### Independent Author and Researcher • Focused on Open Science and FAIR Principles • Developer • Open Science Advocate
 
-I work at the intersection of research, digital preservation, and open scientific infrastructure.  
-My long-term focus is on ensuring that scientific outputs remain accessible, verifiable, and free from commercial lock-in.
+## Research Scope
+
+My scientific work spans a broad multidisciplinary spectrum, including:
+
+- biology and human physiology  
+- psychology, sociology, and sexology  
+- anthropology, history of antiquity, and human evolution  
+- archaeolinguistics, etymology, and prehistoric Proto‑Indo‑European communication  
+- genetics and zoopsychology  
+- metaphysics and philosophical analysis  
+- informatics and the development of audiovisual dictionary‑encyclopedic content  
+
+This wide-ranging perspective allows me to explore the intersections between biological, cultural, linguistic, and technological evolution.
 
 ---
 
-## Research Interests
+## Literary Work
 
-- Open science and FAIR principles  
-- Digital preservation and DOI infrastructure  
-- History, anthropology, and cultural reconstruction  
-- Scientific communication and public knowledge access  
-- Ethical issues in commercial repositories  
+In addition to scientific research, I also work in literary genres, including:
+
+- poetry  
+- satirical pamphlets  
+- essays  
+- short stories and novellas  
 
 ---
 
 ## DOI Accessibility Notice
 
 Some of my earlier research outputs were originally deposited on Figshare.  
-In 2025, Figshare applied access restrictions to several items, including  
+In 2024–2025, Figshare applied access restrictions to several items, including  
 materials with assigned DOIs, despite the fact that these works were originally  
 published under open licenses (CC BY 4.0).
 
@@ -52,10 +64,13 @@ avoid hidden risks and to encourage more resilient, community-oriented solutions
 
 ---
 
+## ORCID
+
+https://orcid.org/0009-0009-0878-1618
+
+---
+
 ## Contact
 
 - GitHub: https://github.com/Pogrebnoj-Alexandroff  
-- Research inquiries: via GitHub Issues or repository discussions
-  
-## ORCID
-https://orcid.org/0009-0009-0878-1618
+- Research inquiries: via GitHub Issues or repository discussions  
