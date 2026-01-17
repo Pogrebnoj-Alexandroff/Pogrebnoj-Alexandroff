@@ -30,46 +30,27 @@ In addition to scientific research, I contribute to various literary genres:
 
 ## DOI Accessibility & Open Science Statement
 
-Some of my earlier research outputs were originally deposited on Figshare.  
-In 2025, Figshare applied access restrictions to several items, including  
-materials with assigned DOIs, despite the fact that these works were originally  
-published under open licenses (CC BY 4.0).
+Some of my earlier research outputs were originally deposited on Figshare. In 2025, Figshare unilaterally applied access restrictions to several items—including materials with assigned DOIs—despite these works being published under open licenses (CC BY 4.0).
 
-These access restrictions were applied unilaterally by Figshare and were independent of my compliance with platform guidelines. As a result, several DOI landing pages  
-now lead to inaccessible or empty pages.
+These restrictions were not caused by any violation of terms or actions on my part. As a result, certain DOI landing pages may currently appear inaccessible or empty.
 
-To ensure long-term accessibility and compliance with FAIR principles, I have  
-migrated my research materials to open, non-commercial repositories such as  
-Zenodo and OSF.
-
-This note is provided for transparency, so that readers and collaborators  
-understand that the DOI accessibility issues are not caused by any actions  
-on my part, but by repository-side access restrictions.
+To ensure long-term accessibility and adherence to FAIR principles, I have migrated my research materials to community-driven, non-commercial repositories: Zenodo and OSF. This migration ensures that my work remains transparent, reproducible, and permanently available to the global research community.
 
 ---
 
-## Open Science and Infrastructure
+## Infrastructure Advocacy
 
 I actively support:
 
-- non-commercial repositories  
-- transparent governance  
-- long-term DOI stability  
-- community-driven standards  
-- reproducibility and public access  
-
-I document systemic issues in open science infrastructure to help researchers  
-avoid hidden risks and to encourage more resilient, community-oriented solutions.
+- Non-commercial, community-governed repositories.
+- Long-term DOI stability and metadata integrity.
+- Transparent governance in Open Science.
+- Documenting systemic risks in digital infrastructure to foster more resilient academic solutions.  
 
 ---
 
-## ORCID
+## Identifiers & Contact
 
-https://orcid.org/0009-0009-0878-1618
-
----
-
-## Contact
-
+- ORCID: https://orcid.org/0009-0009-0878-1618
 - GitHub: https://github.com/Pogrebnoj-Alexandroff  
-- Research inquiries: via GitHub Issues or repository discussions  
+- Inquiries: Please reach out via GitHub Issues or repository discussions.  
