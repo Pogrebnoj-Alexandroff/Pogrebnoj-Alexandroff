@@ -21,14 +21,14 @@ This wide-ranging perspective allows me to explore the intersections between bio
 
 In addition to scientific research, I contribute to various literary genres:
 
-- poetry  
-- satirical pamphlets  
-- essays  
-- short stories and novellas  
+- Poetry  
+- Satirical pamphlets  
+- Essays  
+- Short stories and novellas  
 
 ---
 
-## DOI Accessibility Notice
+## DOI Accessibility & Open Science Statement
 
 Some of my earlier research outputs were originally deposited on Figshare.  
 In 2025, Figshare applied access restrictions to several items, including  
