@@ -51,6 +51,6 @@ I actively support:
 
 ## Identifiers & Contact
 
-- ORCID: https://orcid.org/0009-0009-0878-1618
-- GitHub: https://github.com/Pogrebnoj-Alexandroff  
-- Inquiries: Please reach out via GitHub Issues or repository discussions.  
+* **ORCID:** [0009-0009-0878-1618](https://orcid.org/0009-0009-0878-1618)
+* **GitHub:** [Pogrebnoj-Alexandroff](https://github.com/Pogrebnoj-Alexandroff)
+* **Inquiries:** Via GitHub Issues or repository discussions.
