@@ -67,8 +67,11 @@ I actively support:
 
 ---
 
-## 🔗 Identifiers & Contact
+## 🔗 Identifiers & Digital Archives
 
 * **ORCID:** [0009-0009-0878-1618](https://orcid.org/0009-0009-0878-1618)
+* **Zenodo:** [Full Research Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Pogrebnoj-Alexandroff%22)
+* **OSF:** [Open Science Framework Profile](https://osf.io/search/?q=Pogrebnoj-Alexandroff)
 * **GitHub:** [Pogrebnoj-Alexandroff](https://github.com/Pogrebnoj-Alexandroff)
-* **Inquiries:** via [GitHub Issues](https://github.com/Pogrebnoj-Alexandroff/Pogrebnoj-Alexandroff/issues) or repository discussions
+
+**Inquiries:** via [GitHub Issues](https://github.com/Pogrebnoj-Alexandroff/Pogrebnoj-Alexandroff/issues) or repository discussions.
