@@ -55,4 +55,7 @@ avoid hidden risks and to encourage more resilient, community-oriented solutions
 ## Contact
 
 - GitHub: https://github.com/Pogrebnoj-Alexandroff  
-- Research inquiries: via GitHub Issues or repository discussions  
+- Research inquiries: via GitHub Issues or repository discussions
+  
+## ORCID
+https://orcid.org/0009-0009-0878-1618
