@@ -1,5 +1,5 @@
 # Aleksey Pogrebnoj-Alexandroff
-### Researcher • Developer • Open Science Advocate
+### Independent Author and Researcher • Focused on Open Science and FAIR Principles • Developer • Open Science Advocate
 
 I work at the intersection of research, digital preservation, and open scientific infrastructure.  
 My long-term focus is on ensuring that scientific outputs remain accessible, verifiable, and free from commercial lock-in.
