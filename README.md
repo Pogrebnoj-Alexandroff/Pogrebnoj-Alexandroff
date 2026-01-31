@@ -73,5 +73,6 @@ I actively support:
 * 📦 **Zenodo:** [Full Research Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Pogrebnoj-Alexandroff%22)
 * 🏗️ **OSF:** [Open Science Framework Profile](https://osf.io/6zxyn/)
 * 💻 **GitHub:** [Pogrebnoj-Alexandroff](https://github.com/Pogrebnoj-Alexandroff)
+* 🏛️ **Internet Archive:** [Texts & Publications](https://archive.org/search?tab=texts&query=Pogrebnoj-Alexandroff)
 
 **Inquiries:** via [GitHub Issues](https://github.com/Pogrebnoj-Alexandroff/Pogrebnoj-Alexandroff/issues) or repository discussions.
