@@ -67,7 +67,7 @@ I actively support:
 
 ---
 
-## Identifiers & Digital Archives
+## 🔗 Identifiers & Digital Archives
 
 * 🆔 **ORCID:** [0009-0009-0878-1618](https://orcid.org/0009-0009-0878-1618) — Pogrebnoj-Alexandroff
 * 📦 **Zenodo:** [Full Research Archive — Pogrebnoj-Alexandroff](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Pogrebnoj-Alexandroff%2C%20Aleksey%22&l=list&p=1&s=20&sort=mostviewed)
