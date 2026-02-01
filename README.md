@@ -70,13 +70,13 @@ I actively support:
 ## Identifiers & Digital Archives
 
 * 🆔 **ORCID:** [0009-0009-0878-1618](https://orcid.org/0009-0009-0878-1618) — Pogrebnoj-Alexandroff
-* 📦 **Zenodo:** [Full Research Archive of Pogrebnoj-Alexandroff](https://zenodo.org/search?page=1&size=20&q=Pogrebnoj-Alexandroff)
-* 🏗️ **OSF:** [Pogrebnoj-Alexandroff | Open Science Framework Profile](https://osf.io/search/?q=Pogrebnoj-Alexandroff)
-* 💻 **GitHub:** [Pogrebnoj-Alexandroff | Primary Profile](https://github.com/Pogrebnoj-Alexandroff)
-* 🏛️ **Internet Archive:** [Texts & Publications by Pogrebnoj-Alexandroff](https://archive.org/search.php?query=Pogrebnoj-Alexandroff)
+* 📦 **Zenodo:** [Full Research Archive — Pogrebnoj-Alexandroff](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Pogrebnoj-Alexandroff%2C%20Aleksey%22&l=list&p=1&s=20&sort=mostviewed)
+* 🏗️ **OSF:** [Open Science Framework Profile — Pogrebnoj-Alexandroff](https://osf.io/user/6zxyn)
+* 💻 **GitHub:** [Pogrebnoj-Alexandroff](https://github.com/Pogrebnoj-Alexandroff)
+* 🏛️ **Internet Archive:** [Texts & Publications by Pogrebnoj-Alexandroff](https://archive.org/search?tab=texts&query=Pogrebnoj-Alexandroff)
 
 ### ⚠️ Notes & Warnings
-* 🔘 **Figshare (ID 21491708):** Dataset Entry
+* 🔘 **Figshare** [ID 21491708](https://figshare.com/authors/wd/21491708) — Aleksey Pogrebnoj-Alexandroff
 > **Warning:** Current data and DOI-indexed articles are unavailable. The platform shows signs of unethical practices by Pogrebnoj-Alexandroff's assessment, including predatory solicitation and blocking access to published content.
 * *В настоящее время данные и опубликованные ранее статьи от автора, публикуемого под именем Aleksey Pogrebnoj-Alexandroff, с иллюстрациями и DOI — недоступны: сервис проявил признаки недобросовестных практик, включая рассылку нежелательных писем и агрессивное продвижение публикаций за денежные средства авторов, а также блокирует статьи с целью вымогательства денежных средств и навязыванием подписки к Прайм-сервису; доказательства и отзывы по этому поводу имеются в интернете на различных технических и научных форумах.*
 
