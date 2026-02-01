@@ -74,6 +74,7 @@ I actively support:
 * 🏗️ **OSF:** [Open Science Framework Profile — Pogrebnoj-Alexandroff](https://osf.io/user/6zxyn)
 * 💻 **GitHub:** [Pogrebnoj-Alexandroff](https://github.com/Pogrebnoj-Alexandroff)
 * 🏛️ **Internet Archive:** [Texts & Publications by Pogrebnoj-Alexandroff](https://archive.org/search?tab=texts&query=Pogrebnoj-Alexandroff)
+* 📻 **SoundCloud:** [Audio Archive — Pogrebnoj-Alexandroff](https://soundcloud.com/pogrebnoj-alexandroff)
 
 ### ⚠️ Notes & Warnings
 * 🔘 **Figshare** [ID 21491708](https://figshare.com/authors/wd/21491708) — Aleksey Pogrebnoj-Alexandroff
