@@ -70,10 +70,10 @@ I actively support:
 ## Identifiers & Digital Archives
 
 * 🆔 **ORCID:** [0009-0009-0878-1618](https://orcid.org/0009-0009-0878-1618) — Pogrebnoj-Alexandroff
-* 📦 **Zenodo:** [Full Research Archive of Pogrebnoj-Alexandroff](https://zenodo.org/search?q=Pogrebnoj-Alexandroff)
-* 🏗️ **OSF:** [Pogrebnoj-Alexandroff | Open Science Framework Profile](https://osf.io/your_id)
+* 📦 **Zenodo:** [Full Research Archive of Pogrebnoj-Alexandroff](https://zenodo.org/search?page=1&size=20&q=Pogrebnoj-Alexandroff)
+* 🏗️ **OSF:** [Pogrebnoj-Alexandroff | Open Science Framework Profile](https://osf.io/search/?q=Pogrebnoj-Alexandroff)
 * 💻 **GitHub:** [Pogrebnoj-Alexandroff | Primary Profile](https://github.com/Pogrebnoj-Alexandroff)
-* 🏛️ **Internet Archive:** [Texts & Publications by Pogrebnoj-Alexandroff](https://archive.org/details/@pogrebnoj-alexandroff)
+* 🏛️ **Internet Archive:** [Texts & Publications by Pogrebnoj-Alexandroff](https://archive.org/search.php?query=Pogrebnoj-Alexandroff)
 
 ### ⚠️ Notes & Warnings
 * 🔘 **Figshare (ID 21491708):** Dataset Entry
